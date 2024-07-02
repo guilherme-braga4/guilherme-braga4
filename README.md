@@ -18,9 +18,3 @@
 </div><br/>
 
 Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
-
-### Alguns dos meus videos:
-- [PLANO DE AÇÃO PARA APRENDER PROGRAMAÇÃO EM 2022 (MAPA MENTAL)](https://youtu.be/Qf5DQD5fEq8)<br/>
-- [A Rotina de um Desenvolvedor de Software Júnior (em uma Software House)](https://youtu.be/fp6i_0Y07gw)<br/>
-- [Qual faculdade de T.I Escolher: EAD ou Presencial [EP.1 - INGRESSANDO EM T.I]](https://youtu.be/eC9O6RC4PAM)<br/>
-- [REACT - Context API & Gereciamento Global do Estado de uma Aplicação de Login](https://youtu.be/i5yoHLrboXw)<br/> 
